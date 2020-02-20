@@ -1,0 +1,31 @@
+body {
+  background-color: #272538;
+}
+
+.jumbotron-fluid {
+  text-align: center;
+  background-color: #272538;
+  color: white;
+  font-family: "Mystery Quest", cursive;
+  font-size: 750px;
+}
+
+.h1,
+h1 {
+  font-size: 5.5rem;
+}
+
+.panel-title {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.panel-body {
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+}
